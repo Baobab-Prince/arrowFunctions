@@ -19,7 +19,7 @@ function randomNumber() {
 
 let randomNumber2 = () => Math.random;
 
-//Anonymous function...a function with no name
+//Anonymous function....a function with no name
 document.addEventListener('click', function () {
   console.log('Click');
 });
